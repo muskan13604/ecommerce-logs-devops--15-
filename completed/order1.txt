@@ -1,0 +1,12 @@
+Order_id Product status
+1       Charger         Shipped
+2       Screen          fulfilled
+3       Case            Pending
+4       Headset         Shipped
+5       Adapter         Cancelled
+6       Powerbank       fulfilled
+7       SDCard          Pending
+8      Keyboard        Shipped
+9      Mouse           Cancelled
+10      Pendrive        fulfilled
+
